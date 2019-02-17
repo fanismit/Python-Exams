@@ -35,7 +35,6 @@ def maxDistance(table,limit):
                 defi=limit-sum(max)         
         tries+=1
     print("the maximum sum is",limit-defi)
-maxDistance([44,52,40,21,20],120)
 
 
    
